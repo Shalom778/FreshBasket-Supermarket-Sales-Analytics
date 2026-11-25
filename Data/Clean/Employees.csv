@@ -1,0 +1,41 @@
+﻿EmployeeID,EmployeeName,Role,StoreID,HireDate,EmploymentStatus
+E001,Aarav Singh,Cashier,S05,2022-06-03,Active
+E002,Rohan Kumar,Online Picker,S01,2021-05-17,Active
+E003,Priya Iyer,Online Picker,S05,2020-08-01,Active
+E004,Ishaan Das,Online Picker,S01,2019-06-28,Active
+E005,Meera Kumar,Online Picker,S01,2022-01-16,Active
+E006,Vivaan Gupta,Department Lead,S01,2023-01-15,Active
+E007,Meera Khan,Stock Associate,S01,2021-08-04,Inactive
+E008,Rohan Iyer,Online Picker,S02,2024-12-17,Active
+E009,Rahul Iyer,Online Picker,S04,2019-03-30,Active
+E010,Rohan Iyer,Stock Associate,S05,2020-10-05,Active
+E011,Saanvi Nair,Department Lead,S06,2021-08-25,Inactive
+E012,Aanya Nair,Department Lead,S05,2023-05-05,Active
+E013,Priya Rao,Store Manager,S01,2020-09-13,Active
+E014,Aditya Reddy,Stock Associate,S07,2024-11-02,Inactive
+E015,Tara Kumar,Online Picker,S04,2020-09-17,Active
+E016,Zoya Singh,Stock Associate,S05,2025-01-29,Active
+E017,Karan Mehta,Store Manager,S03,2020-07-19,Active
+E018,Tara Mishra,Store Manager,S03,2025-05-02,Active
+E019,Vivaan Mehta,Online Picker,S06,2020-04-29,Active
+E020,Aarav Joshi,Department Lead,S03,2023-08-23,Inactive
+E021,Dev Verma,Department Lead,S05,2020-09-14,Active
+E022,Aditya Patel,Cashier,S02,2021-12-29,Active
+E023,Zoya Kumar,Store Manager,S04,2019-04-17,Active
+E024,Aditya Mehta,Online Picker,S08,2024-04-04,Active
+E025,Ananya Khan,Stock Associate,S06,2024-07-05,Active
+E026,Arjun Kumar,Cashier,S03,2023-08-01,Active
+E027,Kabir Gupta,Store Manager,S01,2021-04-10,Active
+E028,Ananya Mishra,Stock Associate,S02,2024-06-29,Active
+E029,Isha Gupta,Stock Associate,S08,2019-06-21,Active
+E030,Rohan Gupta,Online Picker,S07,2025-05-31,Active
+E031,Rahul Reddy,Stock Associate,S01,2024-02-15,Active
+E032,Isha Mehta,Online Picker,S01,2023-06-09,Inactive
+E033,Priya Gupta,Online Picker,S01,2019-07-21,Active
+E034,Ishaan Mishra,Department Lead,S08,2022-03-17,Active
+E035,Meera Das,Cashier,S07,2024-10-18,Active
+E036,Dev Reddy,Online Picker,S08,2020-04-08,Active
+E037,Ishaan Gupta,Department Lead,S03,2024-01-21,Active
+E038,Karan Mishra,Store Manager,S08,2024-02-06,Active
+E039,Ananya Verma,Cashier,S06,2020-01-09,Active
+E040,Saanvi Reddy,Online Picker,S08,2023-04-23,Active

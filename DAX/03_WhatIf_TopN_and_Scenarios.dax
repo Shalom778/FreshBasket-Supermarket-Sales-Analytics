@@ -1,0 +1,43 @@
+// Create these as calculated tables. Keep them disconnected from the main model.
+
+Top N Selector =
+GENERATESERIES ( 5, 30, 5 )
+
+Product Sales Rank =
+RANKX (
+    ALLSELECTED ( Products[ProductName] ),
+    [Net Sales],
+    ,
+    DESC,
+    DENSE
+)
+
+// Use Product Sales Rank <= SELECTEDVALUE('Top N Selector'[Value], 10)
+// as a visual-level filter = 1; create this helper measure:
+Show Product In Top N =
+IF (
+    [Product Sales Rank] <= SELECTEDVALUE ( 'Top N Selector'[Value], 10 ),
+    1,
+    0
+)
+
+Sales Target Parameter =
+GENERATESERIES ( 100000, 2000000, 25000 )
+
+Selected Sales Target =
+SELECTEDVALUE ( 'Sales Target Parameter'[Value], 500000 )
+
+Target Attainment % =
+DIVIDE ( [Net Sales], [Selected Sales Target] )
+
+Discount Scenario Parameter =
+GENERATESERIES ( 0, 0.30, 0.01 )
+
+Selected Scenario Discount % =
+SELECTEDVALUE ( 'Discount Scenario Parameter'[Value], 0 )
+
+Scenario Net Sales =
+[Gross Sales] * ( 1 - [Selected Scenario Discount %] )
+
+Scenario Sales Difference =
+[Scenario Net Sales] - [Net Sales]

@@ -1,0 +1,25 @@
+```mermaid
+flowchart TB
+    Date[Date Dimension]
+    Products[Products Dimension]
+    Customers[Customers Dimension]
+    Stores[Stores Dimension]
+    Employees[Employees Dimension]
+    Promotions[Promotions Dimension]
+    Sales[(Sales Fact)]
+    Returns[(Returns Fact)]
+    Inventory[(Inventory Snapshots Fact)]
+
+    Date --> Sales
+    Date --> Returns
+    Date --> Inventory
+    Products --> Sales
+    Products --> Returns
+    Products --> Inventory
+    Customers --> Sales
+    Stores --> Sales
+    Stores --> Returns
+    Stores --> Inventory
+    Employees --> Sales
+    Promotions --> Sales
+```

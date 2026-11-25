@@ -1,0 +1,19 @@
+Date =
+VAR MinDate =
+    MINX ( ALL ( Sales ), Sales[TransactionDate] )
+VAR MaxDate =
+    MAXX ( ALL ( Sales ), Sales[TransactionDate] )
+RETURN
+ADDCOLUMNS (
+    CALENDAR ( MinDate, MaxDate ),
+    "Year", YEAR ( [Date] ),
+    "Quarter", "Q" & FORMAT ( [Date], "Q" ),
+    "Month Number", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM" ),
+    "Month Year", FORMAT ( [Date], "MMM yyyy" ),
+    "Year Month Sort", YEAR ( [Date] ) * 100 + MONTH ( [Date] ),
+    "Day", DAY ( [Date] ),
+    "Day Name", FORMAT ( [Date], "ddd" ),
+    "Weekday Number", WEEKDAY ( [Date], 2 ),
+    "Is Weekend", WEEKDAY ( [Date], 2 ) > 5
+)

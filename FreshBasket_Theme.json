@@ -1,0 +1,17 @@
+{
+  "name": "FreshBasket",
+  "dataColors": [
+    "#16B8A6",
+    "#F4B942",
+    "#4C78A8",
+    "#E07A5F",
+    "#7A6FF0",
+    "#72A98F",
+    "#D96C9D",
+    "#8C9AA8"
+  ],
+  "background": "#101B2D",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#16B8A6",
+  "visualStyles": {}
+}

@@ -1,0 +1,47 @@
+﻿ProductID,ProductName,Category,Subcategory,Brand,UnitCost,UnitPrice,SupplierID,PackSize,IsPerishable
+P1001,Rice 5kg,Grocery,Rice,PureHome,171.66,194.53,SUP008,500 g,No
+P1002,Wheat Flour 5kg,Grocery,Wheat,DailyChoice,49.19,57.76,SUP014,1 unit,No
+P1003,Sugar 1kg,Grocery,Sugar,FreshWay,22.3,27.56,SUP018,500 g,No
+P1004,Cooking Oil 1L,Grocery,Cooking,ValueMart,190.42,284.05,SUP008,1 L,No
+P1005,Salt 1kg,Grocery,Salt,FreshWay,159.37,246.86,SUP006,750 ml,No
+P1006,Pasta 500g,Grocery,Pasta,SunDrop,118.54,150.22,SUP011,1 unit,No
+P1007,Tea 250g,Grocery,Tea,Urban Pantry,37.72,44.18,SUP009,1 unit,No
+P1008,Coffee 100g,Grocery,Coffee,ValueMart,193.78,272.11,SUP003,200 g,No
+P1009,Milk 1L,Dairy,Milk,Urban Pantry,86.83,126.18,SUP007,750 ml,Yes
+P1010,Curd 500g,Dairy,Curd,PureHome,32.04,47.11,SUP003,500 g,Yes
+P1011,Butter 100g,Dairy,Butter,NatureBasket,227.29,300.36,SUP012,500 g,Yes
+P1012,Cheese 200g,Dairy,Cheese,PureHome,105.69,130.11,SUP003,200 g,Yes
+P1013,Paneer 200g,Dairy,Paneer,SunDrop,170.57,239.33,SUP006,1 L,Yes
+P1014,Yogurt Cup,Dairy,Yogurt,SunDrop,107.97,177.55,SUP011,1 unit,Yes
+P1015,Apples 1kg,Produce,Apples,Urban Pantry,71.12,80.86,SUP013,1 kg,Yes
+P1016,Bananas 1kg,Produce,Bananas,Urban Pantry,31.22,50.08,SUP007,750 ml,Yes
+P1017,Tomatoes 1kg,Produce,Tomatoes,NatureBasket,137.31,218.17,SUP005,1 kg,Yes
+P1018,Onions 1kg,Produce,Onions,PureHome,49.21,74.55,SUP014,200 g,Yes
+P1019,Potatoes 1kg,Produce,Potatoes,Harvest Gold,112.85,139.51,SUP017,1 L,Yes
+P1020,Spinach Bundle,Produce,Spinach,DailyChoice,37.27,42.67,SUP005,750 ml,Yes
+P1021,Mangoes 1kg,Produce,Mangoes,DailyChoice,54.2,80.25,SUP013,1 L,Yes
+P1022,Cola 750ml,Beverages,Cola,PureHome,160.99,220.25,SUP018,1 unit,No
+P1023,Orange Juice 1L,Beverages,Orange,PureHome,181.67,214.5,SUP011,1 unit,No
+P1024,Mineral Water 1L,Beverages,Mineral,FreshWay,86.91,104.62,SUP009,200 g,No
+P1025,Green Tea 20 Bags,Beverages,Green,DailyChoice,201.68,280.15,SUP010,750 ml,No
+P1026,Energy Drink 250ml,Beverages,Energy,Urban Pantry,139.38,170.8,SUP006,200 g,No
+P1027,Laundry Detergent,Household,Laundry,FreshWay,248.61,399.99,SUP011,1 L,No
+P1028,Dishwash Liquid,Household,Dishwash,PureHome,19.77,31.88,SUP008,1 unit,No
+P1029,Floor Cleaner,Household,Floor,DailyChoice,74.01,105.15,SUP003,750 ml,No
+P1030,Tissue Pack,Household,Tissue,Harvest Gold,134.07,155.08,SUP005,750 ml,No
+P1031,Garbage Bags,Household,Garbage,PureHome,131.44,185.51,SUP017,200 g,No
+P1032,Shampoo 180ml,Personal Care,Shampoo,SunDrop,118.67,146.23,SUP010,1 L,No
+P1033,Toothpaste 150g,Personal Care,Toothpaste,NatureBasket,258.81,379.01,SUP017,1 L,No
+P1034,Soap 4-pack,Personal Care,Soap,Urban Pantry,44.65,55.33,SUP001,200 g,No
+P1035,Body Lotion,Personal Care,Body,FreshWay,150.71,215.8,SUP003,750 ml,No
+P1036,Toothbrush,Personal Care,Toothbrush,FreshWay,169.62,210.56,SUP011,1 unit,No
+P1037,Potato Chips,Snacks,Potato,NatureBasket,140.97,178.69,SUP007,200 g,No
+P1038,Biscuits Pack,Snacks,Biscuits,NatureBasket,47.42,76.62,SUP008,1 L,No
+P1039,Chocolate Bar,Snacks,Chocolate,DailyChoice,212.84,259.86,SUP014,1 kg,No
+P1040,Mixed Nuts 200g,Snacks,Mixed,FreshWay,118.78,162.43,SUP004,1 unit,No
+P1041,Instant Noodles,Snacks,Instant,DailyChoice,113.64,147.71,SUP008,500 g,No
+P1042,White Bread,Bakery,White,ValueMart,61.6,83.64,SUP006,1 kg,Yes
+P1043,Brown Bread,Bakery,Brown,DailyChoice,128.34,203.22,SUP015,200 g,Yes
+P1044,Croissant,Bakery,Croissant,FreshWay,38.99,57.15,SUP003,500 g,Yes
+P1045,Cake Slice,Bakery,Cake,SunDrop,55.75,76.79,SUP013,1 unit,Yes
+P1046,Burger Buns,Bakery,Burger,ValueMart,55.34,62.04,SUP009,1 L,Yes

@@ -1,0 +1,26 @@
+﻿PromotionID,PromotionName,PromotionType,DiscountPct,StartDate,EndDate,CampaignChannel
+PR001,Member Bonus,Loyalty Offer,20,2024-06-07,2024-07-01,Social
+PR002,Member Bonus,Flat Discount,20,2023-02-14,2023-03-15,Email
+PR003,Member Bonus,Buy One Get One,30,2023-06-16,2023-07-18,In-store
+PR004,Clearance Days,Loyalty Offer,12,2024-03-05,2024-03-19,Email
+PR005,Member Bonus,Buy One Get One,5,2023-05-01,2023-06-03,All Channels
+PR006,Weekend Saver,Loyalty Offer,15,2025-02-22,2025-03-07,Social
+PR007,Weekend Saver,Seasonal,15,2024-07-10,2024-08-09,Email
+PR008,Midweek Special,Loyalty Offer,15,2023-08-11,2023-09-03,Social
+PR009,Weekend Saver,Buy One Get One,20,2023-03-23,2023-04-16,App
+PR010,Fresh Deals,Percentage Off,10,2024-09-26,2024-10-21,Email
+PR011,Mega Savings,Percentage Off,10,2023-02-26,2023-03-23,In-store
+PR012,Clearance Days,Flat Discount,5,2024-11-14,2024-12-07,In-store
+PR013,Member Bonus,Buy One Get One,25,2023-04-22,2023-05-10,App
+PR014,Member Bonus,Loyalty Offer,25,2024-09-17,2024-10-13,All Channels
+PR015,Weekend Saver,Percentage Off,30,2024-01-04,2024-02-07,App
+PR016,Family Pack Offer,Percentage Off,30,2023-11-27,2023-12-13,Social
+PR017,Festive Basket,Flat Discount,15,2025-05-13,2025-06-04,Email
+PR018,Clearance Days,Flat Discount,20,2023-05-05,2023-06-01,Social
+PR019,Fresh Deals,Seasonal,5,2024-06-21,2024-07-02,In-store
+PR020,Festive Basket,Loyalty Offer,25,2024-08-08,2024-09-05,All Channels
+PR021,Clearance Days,Loyalty Offer,20,2025-03-18,2025-04-14,App
+PR022,Mega Savings,Buy One Get One,20,2023-09-23,2023-10-14,All Channels
+PR023,Midweek Special,Loyalty Offer,30,2024-05-23,2024-06-13,Email
+PR024,Fresh Deals,Flat Discount,10,2025-06-23,2025-07-17,In-store
+PR025,Midweek Special,Percentage Off,25,2023-05-02,2023-05-07,Email

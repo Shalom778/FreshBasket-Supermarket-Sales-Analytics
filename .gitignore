@@ -1,0 +1,13 @@
+# Power BI temporary/backup files
+*.tmp
+*.bak
+~$*.pbix
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python caches (if analysis notebooks are added later)
+__pycache__/
+.ipynb_checkpoints/

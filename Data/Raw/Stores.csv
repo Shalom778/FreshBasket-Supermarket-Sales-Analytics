@@ -1,0 +1,9 @@
+﻿StoreID,StoreName,City,State,StoreType,OpenDate,SquareFeet,Region
+S01,FreshBasket Hyderabad,Hyderabad,Telangana,Neighborhood,2020-05-16,7800,South
+S02,FreshBasket Bengaluru,Bengaluru,Karnataka,Express,2022-05-24,6000,South
+S03,FreshBasket Chennai,Chennai,Tamil Nadu,Express,2022-01-11,4500,South
+S04,FreshBasket Pune,Pune,Maharashtra,Urban,2019-01-24,3200,West
+S05,FreshBasket Mumbai,Mumbai,Maharashtra,Urban,2018-04-30,6000,West
+S06,FreshBasket Delhi,Delhi,Delhi,Express,2021-01-15,1800,North
+S07,FreshBasket Ghaziabad,Ghaziabad,Uttar Pradesh,Express,2019-10-05,1800,North
+S08,FreshBasket Jaipur,Jaipur,Rajasthan,Urban,2021-04-11,4500,North

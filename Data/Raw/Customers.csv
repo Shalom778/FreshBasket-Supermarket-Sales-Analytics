@@ -1,0 +1,601 @@
+﻿CustomerID,CustomerName,Gender,Age,City,State,SignupDate,LoyaltyTier,PreferredChannel
+C00001,Aanya Mehta,Female,,Chennai,Tamil Nadu,2025-09-03,Bronze,In-store
+C00002,Diya Mishra,Male,55.0,Ghaziabad,Uttar Pradesh,2019-12-02,Silver,App
+C00003,Kabir Kumar,Non-binary,33.0,Delhi,Delhi,2020-06-20,Silver,Online
+C00004,Rohan Mishra,Female,18.0,Jaipur,Rajasthan,2025-04-25,,In-store
+C00005,Rahul Rao,Male,40.0,Pune,Maharashtra,2021-09-27,Bronze,In-store
+C00006,Priya Verma,Non-binary,57.0,Jaipur,Rajasthan,2024-12-06,Bronze,App
+C00007,Diya Mishra,Male,34.0,Mumbai,Maharashtra,2020-03-14,Gold,In-store
+C00008,Meera Das,Male,63.0,Mumbai,Maharashtra,2021-12-17,Silver,Online
+C00009,Vivaan Nair,Prefer not to say,,Hyderabad,Telangana,2019-01-15,Bronze,In-store
+C00010,Ananya Verma,Prefer not to say,53.0,Mumbai,Maharashtra,2025-04-16,Bronze,In-store
+C00011,Priya Sharma,Non-binary,55.0,Chennai,Tamil Nadu,2023-10-27,Bronze,Online
+C00012,Aanya Mishra,Non-binary,31.0,Delhi,Delhi,2020-02-26,Bronze,App
+C00013,Zoya Verma,Male,33.0,Ghaziabad,Uttar Pradesh,2020-12-26,Platinum,In-store
+C00014,Rohan Joshi,Prefer not to say,69.0,Chennai,Tamil Nadu,2021-10-13,Bronze,App
+C00015,Ishaan Khan,Female,,Bengaluru,Karnataka,2021-03-28,Gold,Online
+C00016,Meera Khan,Male,32.0,,Delhi,2021-03-02,Silver,Online
+C00017,Kabir Singh,Prefer not to say,61.0,Bengaluru,Karnataka,2025-01-05,Bronze,In-store
+C00018,Kabir Patel,Non-binary,20.0,Bengaluru,Karnataka,2023-11-15,Bronze,Online
+C00019,Zoya Mehta,Female,42.0,Ghaziabad,Uttar Pradesh,2021-02-17,Bronze,App
+C00020,Aarav Mehta,Male,41.0,Ghaziabad,Uttar Pradesh,2022-09-14,Silver,App
+C00021,Meera Mehta,Non-binary,60.0,Bengaluru,Karnataka,2023-07-07,Gold,App
+C00022,Arjun Gupta,Prefer not to say,61.0,Chennai,Tamil Nadu,2020-12-13,Silver,Online
+C00023,Priya Khan,Female,37.0,Ghaziabad,Uttar Pradesh,2023-10-27,Gold,App
+C00024,Dev Iyer,Prefer not to say,61.0,Delhi,Delhi,2024-04-22,Gold,App
+C00025,Vivaan Rao,Non-binary,23.0,Chennai,Tamil Nadu,2021-08-20,Silver,In-store
+C00026,Aditya Sharma,Female,33.0,,Maharashtra,2019-10-26,Silver,App
+C00027,Ishaan Iyer,Prefer not to say,33.0,Pune,Maharashtra,2019-01-23,Platinum,In-store
+C00028,Isha Patel,Prefer not to say,21.0,Ghaziabad,Uttar Pradesh,2020-05-12,Silver,Online
+C00029,Dev Das,Prefer not to say,,Delhi,Delhi,2024-01-01,Platinum,App
+C00030,Dev Rao,Male,,Jaipur,Rajasthan,2024-11-05,Silver,In-store
+C00031,Dev Reddy,Non-binary,33.0,Mumbai,Maharashtra,2022-08-02,Platinum,In-store
+C00032,Aditya Kumar,Prefer not to say,62.0,Chennai,Tamil Nadu,2021-05-26,Bronze,Online
+C00033,Priya Iyer,Prefer not to say,21.0,Delhi,Delhi,2023-09-17,Silver,App
+C00034,Karan Gupta,Prefer not to say,18.0,Hyderabad,Telangana,2022-05-08,Gold,Online
+C00035,Nisha Kumar,Non-binary,45.0,Pune,Maharashtra,2023-05-12,Bronze,App
+C00036,Ananya Khan,Prefer not to say,26.0,Ghaziabad,Uttar Pradesh,2024-12-27,Bronze,Online
+C00037,Vivaan Nair,Prefer not to say,26.0,Hyderabad,Telangana,2021-01-14,Bronze,Online
+C00038,Arjun Iyer,Non-binary,39.0,Delhi,Delhi,2023-04-02,Bronze,Online
+C00039,Vivaan Iyer,Female,65.0,Mumbai,Maharashtra,2022-12-04,Bronze,In-store
+C00040,Aarav Kumar,Male,,,Telangana,2020-09-16,Bronze,Online
+C00041,Karan Kumar,Prefer not to say,62.0,Bengaluru,Karnataka,2023-02-19,Bronze,App
+C00042,Ananya Rao,Female,55.0,Bengaluru,Karnataka,2022-07-01,Silver,Online
+C00043,Arjun Reddy,Male,24.0,Ghaziabad,Uttar Pradesh,2022-05-20,Gold,App
+C00044,Karan Joshi,Female,40.0,Bengaluru,Karnataka,2023-02-26,Bronze,App
+C00045,Aarav Khan,Prefer not to say,70.0,Delhi,Delhi,2023-11-11,Platinum,App
+C00046,Aditya Gupta,Male,64.0,Jaipur,Rajasthan,2022-01-11,Silver,App
+C00047,Dev Gupta,Non-binary,38.0,Jaipur,Rajasthan,2019-12-21,Bronze,Online
+C00048,Dev Das,Prefer not to say,39.0,Pune,Maharashtra,2022-08-24,Bronze,In-store
+C00049,Kabir Singh,Non-binary,56.0,Delhi,Delhi,2022-02-05,Silver,App
+C00050,Vivaan Kumar,Prefer not to say,49.0,Pune,Maharashtra,2021-09-11,Gold,App
+C00051,Dev Joshi,Female,23.0,Jaipur,Rajasthan,2023-07-15,Gold,Online
+C00052,Nisha Mehta,Non-binary,45.0,Delhi,Delhi,2025-03-04,Bronze,App
+C00053,Kabir Rao,Non-binary,32.0,Jaipur,Rajasthan,2021-02-27,Bronze,App
+C00054,Arjun Kumar,Prefer not to say,35.0,Chennai,Tamil Nadu,2024-11-18,Silver,In-store
+C00055,Meera Kumar,Non-binary,29.0,Pune,Maharashtra,2024-12-27,Bronze,In-store
+C00056,Priya Rao,Male,58.0,Hyderabad,Telangana,2024-07-03,Bronze,In-store
+C00057,Nisha Iyer,Prefer not to say,39.0,Mumbai,Maharashtra,2019-07-30,Bronze,Online
+C00058,Vivaan Gupta,Prefer not to say,22.0,Bengaluru,Karnataka,2019-08-08,Bronze,App
+C00059,Vivaan Kumar,Female,53.0,Mumbai,Maharashtra,2025-09-07,Gold,In-store
+C00060,Dev Mishra,Prefer not to say,37.0,Ghaziabad,Uttar Pradesh,2023-10-23,Bronze,App
+C00061,Zoya Verma,Female,66.0,Hyderabad,Telangana,2021-05-14,Bronze,In-store
+C00062,Isha Patel,Female,28.0,,Tamil Nadu,2024-01-20,Silver,Online
+C00063,Aanya Kumar,Non-binary,63.0,Mumbai,Maharashtra,2024-02-03,Bronze,In-store
+C00064,Karan Nair,Male,45.0,Mumbai,Maharashtra,2021-07-09,Silver,Online
+C00065,Vivaan Sharma,Male,68.0,Chennai,Tamil Nadu,2025-05-20,Platinum,Online
+C00066,Dev Verma,Non-binary,62.0,Bengaluru,Karnataka,2022-01-20,Silver,Online
+C00067,Vivaan Das,Female,45.0,Jaipur,Rajasthan,2021-10-22,Bronze,In-store
+C00068,Kabir Das,Female,66.0,Hyderabad,Telangana,2024-04-11,Silver,Online
+C00069,Ananya Das,Prefer not to say,58.0,Mumbai,Maharashtra,2020-01-09,Silver,Online
+C00070,Rohan Nair,Female,,Delhi,Delhi,2023-08-14,Gold,Online
+C00071,Priya Sharma,Prefer not to say,23.0,Ghaziabad,Uttar Pradesh,2022-08-17,Bronze,Online
+C00072,Priya Iyer,Prefer not to say,21.0,Hyderabad,Telangana,2023-01-21,Silver,Online
+C00073,Aanya Kumar,Non-binary,53.0,Jaipur,Rajasthan,2022-03-25,Silver,App
+C00074,Diya Sharma,Male,63.0,Jaipur,Rajasthan,2025-03-06,Bronze,Online
+C00075,Isha Khan,Female,47.0,Bengaluru,Karnataka,2020-09-22,Silver,App
+C00076,Rahul Verma,Non-binary,44.0,Mumbai,Maharashtra,2024-04-18,Bronze,App
+C00077,Ishaan Kumar,Male,22.0,Chennai,Tamil Nadu,2023-08-27,Bronze,App
+C00078,Aarav Rao,Non-binary,,Mumbai,Maharashtra,2024-06-28,Gold,Online
+C00079,Saanvi Singh,Prefer not to say,47.0,Jaipur,Rajasthan,2021-02-11,,In-store
+C00080,Isha Khan,Prefer not to say,20.0,Ghaziabad,Uttar Pradesh,2024-04-21,Gold,Online
+C00081,Aditya Iyer,Female,26.0,Ghaziabad,Uttar Pradesh,2025-08-14,Bronze,In-store
+C00082,Diya Mehta,Prefer not to say,18.0,Jaipur,Rajasthan,2023-08-07,Gold,In-store
+C00083,Nisha Joshi,Non-binary,39.0,Bengaluru,Karnataka,2023-06-17,Silver,Online
+C00084,Rohan Nair,Prefer not to say,52.0,Ghaziabad,Uttar Pradesh,2019-10-08,Bronze,App
+C00085,Isha Verma,Female,45.0,Mumbai,Maharashtra,2020-02-16,Silver,App
+C00086,Aarav Sharma,Non-binary,68.0,Mumbai,Maharashtra,2023-01-08,Bronze,In-store
+C00087,Rahul Gupta,Male,28.0,Pune,Maharashtra,2023-04-16,Silver,In-store
+C00088,Karan Patel,Male,47.0,Jaipur,Rajasthan,2024-02-26,Bronze,In-store
+C00089,Meera Nair,Male,22.0,Jaipur,Rajasthan,2022-11-16,,Online
+C00090,Kabir Iyer,Non-binary,30.0,Ghaziabad,Uttar Pradesh,2024-06-02,Bronze,Online
+C00091,Karan Rao,Non-binary,19.0,Delhi,Delhi,2023-06-10,Bronze,App
+C00092,Zoya Verma,Prefer not to say,,Hyderabad,Telangana,2022-03-18,Gold,In-store
+C00093,Isha Nair,Male,57.0,Delhi,Delhi,2020-07-14,Silver,App
+C00094,Meera Joshi,Prefer not to say,20.0,Hyderabad,Telangana,2020-06-22,Bronze,Online
+C00095,Tara Patel,Male,26.0,Delhi,Delhi,2023-02-07,Silver,Online
+C00096,Kabir Mishra,Prefer not to say,69.0,Chennai,Tamil Nadu,2022-10-19,Gold,Online
+C00097,Aditya Joshi,Male,61.0,Bengaluru,Karnataka,2023-06-16,Platinum,App
+C00098,Vivaan Joshi,Prefer not to say,18.0,Delhi,Delhi,2020-05-21,Silver,App
+C00099,Karan Gupta,Non-binary,24.0,Mumbai,Maharashtra,2024-04-15,Bronze,App
+C00100,Zoya Kumar,Female,58.0,Delhi,Delhi,2022-05-22,Silver,In-store
+C00101,Aanya Sharma,Non-binary,49.0,Chennai,Tamil Nadu,2021-08-19,Platinum,In-store
+C00102,Dev Singh,Prefer not to say,55.0,Ghaziabad,Uttar Pradesh,2020-09-24,Platinum,App
+C00103,Nisha Das,Prefer not to say,35.0,Bengaluru,Karnataka,2023-02-26,Bronze,Online
+C00104,Saanvi Reddy,Non-binary,52.0,Pune,Maharashtra,2023-01-09,Bronze,Online
+C00105,Diya Khan,Prefer not to say,23.0,Pune,Maharashtra,2025-09-11,Platinum,In-store
+C00106,Isha Patel,Male,22.0,Delhi,Delhi,2025-03-20,Bronze,In-store
+C00107,Rohan Joshi,Male,68.0,Pune,Maharashtra,2019-01-12,Bronze,In-store
+C00108,Priya Rao,Male,25.0,Chennai,Tamil Nadu,2019-04-16,Bronze,Online
+C00109,Karan Singh,Female,29.0,Pune,Maharashtra,2020-06-03,Gold,App
+C00110,Vivaan Iyer,Prefer not to say,67.0,Bengaluru,Karnataka,2025-08-28,Bronze,App
+C00111,Zoya Sharma,Non-binary,47.0,Pune,Maharashtra,2019-05-08,Bronze,Online
+C00112,Tara Nair,Female,49.0,Ghaziabad,Uttar Pradesh,2023-12-22,Bronze,In-store
+C00113,Zoya Patel,Female,26.0,Delhi,Delhi,2025-07-25,Silver,Online
+C00114,Zoya Mehta,Non-binary,47.0,Ghaziabad,Uttar Pradesh,2023-10-29,Bronze,App
+C00115,Priya Verma,Male,45.0,Bengaluru,Karnataka,2021-07-24,Silver,Online
+C00116,Tara Verma,Female,38.0,Ghaziabad,Uttar Pradesh,2021-11-10,Bronze,In-store
+C00117,Vivaan Reddy,Female,23.0,Jaipur,Rajasthan,2023-03-07,Gold,App
+C00118,Karan Mehta,Non-binary,60.0,Hyderabad,Telangana,2022-12-19,Gold,Online
+C00119,Meera Das,Non-binary,40.0,Hyderabad,Telangana,2024-09-09,Bronze,App
+C00120,Isha Khan,Female,40.0,Jaipur,Rajasthan,2023-02-14,Bronze,Online
+C00121,Tara Khan,Female,56.0,Pune,Maharashtra,2021-12-31,Bronze,Online
+C00122,Rohan Singh,Female,29.0,Mumbai,Maharashtra,2025-05-08,Silver,In-store
+C00123,Aarav Reddy,Male,42.0,Chennai,Tamil Nadu,2022-10-28,Bronze,Online
+C00124,Karan Das,Female,21.0,Delhi,Delhi,2019-07-23,Silver,Online
+C00125,Tara Iyer,Prefer not to say,44.0,Jaipur,Rajasthan,2024-09-29,Bronze,Online
+C00126,Meera Nair,Prefer not to say,51.0,Bengaluru,Karnataka,2019-07-06,Bronze,App
+C00127,Aarav Kumar,Non-binary,31.0,Hyderabad,Telangana,2021-11-12,Bronze,In-store
+C00128,Nisha Verma,Prefer not to say,29.0,Hyderabad,Telangana,2024-12-21,Gold,App
+C00129,Vivaan Gupta,Female,45.0,,Delhi,2019-11-15,Gold,App
+C00130,Karan Gupta,Prefer not to say,36.0,Ghaziabad,Uttar Pradesh,2019-03-27,Platinum,In-store
+C00131,Saanvi Reddy,Prefer not to say,,Jaipur,Rajasthan,2023-11-20,Silver,App
+C00132,Ishaan Khan,Non-binary,65.0,Bengaluru,Karnataka,2022-09-26,Gold,In-store
+C00133,Rahul Mehta,Male,67.0,Bengaluru,Karnataka,2020-08-27,Bronze,In-store
+C00134,Arjun Patel,Male,66.0,Mumbai,Maharashtra,2019-11-05,Bronze,App
+C00135,Dev Joshi,Prefer not to say,61.0,,Rajasthan,2025-05-01,Silver,App
+C00136,Rohan Patel,Prefer not to say,22.0,Delhi,Delhi,2022-05-25,Gold,App
+C00137,Saanvi Mehta,Female,37.0,Hyderabad,Telangana,2019-06-04,Bronze,Online
+C00138,Vivaan Das,Prefer not to say,47.0,Bengaluru,Karnataka,2019-06-18,Silver,App
+C00139,Rohan Das,Prefer not to say,50.0,,Maharashtra,2019-09-11,Silver,Online
+C00140,Rahul Nair,Male,20.0,Bengaluru,Karnataka,2023-11-29,,App
+C00141,Saanvi Singh,Non-binary,42.0,Chennai,Tamil Nadu,2022-10-17,Silver,In-store
+C00142,Vivaan Singh,Female,53.0,Delhi,Delhi,2022-03-09,Bronze,App
+C00143,Rohan Reddy,Male,40.0,Chennai,Tamil Nadu,2023-05-25,Bronze,App
+C00144,Meera Mehta,Prefer not to say,59.0,Bengaluru,Karnataka,2020-06-07,Silver,App
+C00145,Tara Mehta,Non-binary,19.0,Bengaluru,Karnataka,2021-01-08,Platinum,Online
+C00146,Arjun Kumar,Male,27.0,Jaipur,Rajasthan,2020-02-19,Silver,App
+C00147,Rohan Mishra,Male,56.0,Hyderabad,Telangana,2020-10-26,Bronze,App
+C00148,Dev Sharma,Prefer not to say,41.0,Chennai,Tamil Nadu,2021-08-30,Platinum,App
+C00149,Dev Kumar,Male,37.0,Mumbai,Maharashtra,2024-04-05,Platinum,In-store
+C00150,Karan Iyer,Prefer not to say,67.0,Delhi,Delhi,2023-04-14,Silver,Online
+C00151,Arjun Joshi,Male,34.0,Chennai,Tamil Nadu,2024-05-22,Gold,App
+C00152,Rahul Khan,Female,36.0,Bengaluru,Karnataka,2020-10-18,Bronze,App
+C00153,Tara Reddy,Male,70.0,Chennai,Tamil Nadu,2022-12-02,Platinum,Online
+C00154,Ishaan Mehta,Non-binary,33.0,Hyderabad,Telangana,2019-12-01,Bronze,In-store
+C00155,Diya Khan,Non-binary,68.0,Delhi,Delhi,2019-06-06,Bronze,Online
+C00156,Nisha Iyer,Female,23.0,,Tamil Nadu,2021-06-02,Gold,App
+C00157,Diya Joshi,Non-binary,33.0,Ghaziabad,Uttar Pradesh,2019-07-15,Bronze,App
+C00158,Vivaan Reddy,Prefer not to say,56.0,Jaipur,Rajasthan,2024-10-11,Silver,App
+C00159,Meera Gupta,Female,57.0,Chennai,Tamil Nadu,2025-05-26,Silver,App
+C00160,Rahul Singh,Female,51.0,Bengaluru,Karnataka,2024-09-10,Silver,Online
+C00161,Aanya Nair,Prefer not to say,41.0,Jaipur,Rajasthan,2019-03-08,Bronze,In-store
+C00162,Isha Verma,Female,67.0,Delhi,Delhi,2022-09-23,Bronze,Online
+C00163,Ananya Khan,Prefer not to say,62.0,Delhi,Delhi,2021-01-16,Gold,In-store
+C00164,Aanya Rao,Male,20.0,Jaipur,Rajasthan,2019-06-21,Bronze,Online
+C00165,Priya Iyer,Non-binary,20.0,Ghaziabad,Uttar Pradesh,2021-02-21,Bronze,In-store
+C00166,Kabir Reddy,Non-binary,45.0,Delhi,Delhi,2023-12-07,Platinum,Online
+C00167,Ananya Iyer,Prefer not to say,41.0,Delhi,Delhi,2024-10-27,Bronze,In-store
+C00168,Vivaan Gupta,Male,52.0,Ghaziabad,Uttar Pradesh,2020-02-25,Bronze,App
+C00169,Meera Iyer,Prefer not to say,28.0,Mumbai,Maharashtra,2022-12-10,Silver,App
+C00170,Zoya Gupta,Non-binary,58.0,Delhi,Delhi,2019-08-23,Bronze,App
+C00171,Saanvi Mehta,Male,19.0,Ghaziabad,Uttar Pradesh,2023-11-30,Bronze,In-store
+C00172,Saanvi Singh,Prefer not to say,54.0,Pune,Maharashtra,2020-09-20,Silver,Online
+C00173,Dev Joshi,Female,54.0,Delhi,Delhi,2023-02-12,Silver,App
+C00174,Isha Reddy,Female,65.0,,Maharashtra,2024-10-21,Silver,App
+C00175,Kabir Joshi,Non-binary,63.0,Bengaluru,Karnataka,2022-03-15,Gold,Online
+C00176,Diya Patel,Female,46.0,Pune,Maharashtra,2023-12-29,,App
+C00177,Saanvi Verma,Female,53.0,Delhi,Delhi,2022-05-13,Gold,App
+C00178,Saanvi Mehta,Male,25.0,Chennai,Tamil Nadu,2020-07-22,Bronze,Online
+C00179,Saanvi Mehta,Non-binary,47.0,Hyderabad,Telangana,2025-03-09,Bronze,In-store
+C00180,Meera Gupta,Prefer not to say,51.0,Bengaluru,Karnataka,2023-08-05,Gold,In-store
+C00181,Rohan Nair,Female,46.0,Chennai,Tamil Nadu,2024-10-20,Bronze,App
+C00182,Aditya Gupta,Female,,Chennai,Tamil Nadu,2020-09-18,Bronze,In-store
+C00183,Isha Singh,Non-binary,,Delhi,Delhi,2021-03-15,Silver,App
+C00184,Aditya Nair,Non-binary,57.0,Mumbai,Maharashtra,2024-08-20,Silver,App
+C00185,Ananya Nair,Non-binary,,Chennai,Tamil Nadu,2019-06-18,Gold,In-store
+C00186,Aanya Nair,Non-binary,59.0,Bengaluru,Karnataka,2025-06-01,Silver,App
+C00187,Nisha Mishra,Non-binary,59.0,Hyderabad,Telangana,2024-06-01,Bronze,App
+C00188,Meera Iyer,Female,62.0,Ghaziabad,Uttar Pradesh,2023-12-06,Silver,Online
+C00189,Rohan Das,Male,38.0,Pune,Maharashtra,2022-07-31,Gold,Online
+C00190,Aditya Joshi,Non-binary,50.0,Ghaziabad,Uttar Pradesh,2022-07-31,Bronze,In-store
+C00191,Dev Kumar,Male,24.0,Mumbai,Maharashtra,2023-04-23,Gold,Online
+C00192,Ananya Khan,Non-binary,54.0,Pune,Maharashtra,2021-02-16,Gold,Online
+C00193,Nisha Mishra,Non-binary,49.0,,Rajasthan,2023-05-30,Silver,In-store
+C00194,Karan Singh,Female,21.0,Pune,Maharashtra,2025-09-13,Platinum,App
+C00195,Meera Mehta,Female,,Jaipur,Rajasthan,2020-07-02,Platinum,App
+C00196,Ishaan Singh,Female,43.0,Delhi,Delhi,2025-04-20,Bronze,App
+C00197,Vivaan Gupta,Prefer not to say,66.0,Mumbai,Maharashtra,2020-05-01,Bronze,In-store
+C00198,Saanvi Joshi,Non-binary,53.0,Ghaziabad,Uttar Pradesh,2020-08-13,Bronze,App
+C00199,Rahul Sharma,Female,20.0,Ghaziabad,Uttar Pradesh,2022-09-26,Gold,App
+C00200,Aditya Das,Male,38.0,Jaipur,Rajasthan,2022-07-28,Bronze,App
+C00201,Karan Singh,Prefer not to say,63.0,Mumbai,Maharashtra,2024-04-29,Gold,Online
+C00202,Diya Gupta,Non-binary,68.0,Delhi,Delhi,2019-04-20,Silver,Online
+C00203,Aanya Das,Prefer not to say,28.0,Pune,Maharashtra,2023-04-07,Bronze,App
+C00204,Aanya Das,Female,30.0,,Maharashtra,2022-07-08,Silver,Online
+C00205,Tara Mehta,Prefer not to say,,Pune,Maharashtra,2019-09-13,Gold,App
+C00206,Priya Singh,Prefer not to say,51.0,Pune,Maharashtra,2020-12-10,Silver,App
+C00207,Priya Singh,Non-binary,57.0,Delhi,Delhi,2021-10-06,Bronze,Online
+C00208,Meera Joshi,Non-binary,63.0,Pune,Maharashtra,2024-06-25,Bronze,Online
+C00209,Meera Reddy,Prefer not to say,43.0,Mumbai,Maharashtra,2020-08-22,Bronze,Online
+C00210,Saanvi Mishra,Prefer not to say,59.0,Bengaluru,Karnataka,2024-05-16,Bronze,App
+C00211,Priya Verma,Non-binary,26.0,Mumbai,Maharashtra,2025-07-31,Bronze,In-store
+C00212,Isha Sharma,Female,44.0,Pune,Maharashtra,2024-04-18,Bronze,In-store
+C00213,Priya Mishra,Male,44.0,Hyderabad,Telangana,2024-05-02,Silver,In-store
+C00214,Rohan Rao,Female,67.0,Mumbai,Maharashtra,2025-06-09,Bronze,App
+C00215,Ananya Gupta,Male,20.0,Hyderabad,Telangana,2023-06-15,Gold,In-store
+C00216,Aanya Sharma,Non-binary,54.0,Mumbai,Maharashtra,2022-10-04,Bronze,App
+C00217,Aditya Khan,Prefer not to say,35.0,Jaipur,Rajasthan,2020-04-06,Bronze,App
+C00218,Kabir Verma,Male,18.0,Jaipur,Rajasthan,2022-04-23,Silver,In-store
+C00219,Zoya Khan,Prefer not to say,70.0,Chennai,Tamil Nadu,2022-09-05,Bronze,App
+C00220,Ananya Patel,Prefer not to say,38.0,Bengaluru,Karnataka,2019-01-28,Bronze,In-store
+C00221,Kabir Singh,Non-binary,55.0,Jaipur,Rajasthan,2019-02-16,Bronze,Online
+C00222,Aanya Nair,Female,47.0,Pune,Maharashtra,2023-07-19,Silver,App
+C00223,Diya Nair,Non-binary,41.0,,Maharashtra,2021-06-16,Platinum,Online
+C00224,Dev Verma,Non-binary,44.0,Chennai,Tamil Nadu,2024-04-12,Gold,App
+C00225,Isha Nair,Female,51.0,Pune,Maharashtra,2023-01-21,Bronze,App
+C00226,Aanya Khan,Male,54.0,Bengaluru,Karnataka,2020-11-04,Bronze,App
+C00227,Diya Nair,Male,63.0,Jaipur,Rajasthan,2020-01-08,Platinum,Online
+C00228,Dev Patel,Prefer not to say,47.0,Hyderabad,Telangana,2025-04-07,Silver,Online
+C00229,Ishaan Rao,Female,65.0,Hyderabad,Telangana,2019-10-27,Bronze,Online
+C00230,Priya Sharma,Female,48.0,Bengaluru,Karnataka,2023-08-02,Bronze,In-store
+C00231,Saanvi Mishra,Prefer not to say,46.0,Ghaziabad,Uttar Pradesh,2023-03-27,Bronze,App
+C00232,Saanvi Reddy,Male,52.0,Chennai,Tamil Nadu,2020-06-05,Gold,In-store
+C00233,Aarav Rao,Prefer not to say,61.0,Hyderabad,Telangana,2023-10-04,Silver,In-store
+C00234,Dev Singh,Male,35.0,Pune,Maharashtra,2020-04-07,Bronze,App
+C00235,Zoya Joshi,Female,33.0,Ghaziabad,Uttar Pradesh,2020-02-18,Silver,Online
+C00236,Isha Verma,Female,43.0,Hyderabad,Telangana,2025-01-19,Bronze,In-store
+C00237,Rahul Rao,Male,70.0,Chennai,Tamil Nadu,2025-06-17,Bronze,App
+C00238,Isha Rao,Male,60.0,Delhi,Delhi,2023-08-21,Bronze,In-store
+C00239,Tara Mehta,Prefer not to say,21.0,Chennai,Tamil Nadu,2023-04-11,Gold,Online
+C00240,Tara Patel,Non-binary,42.0,Ghaziabad,Uttar Pradesh,2025-01-12,Silver,In-store
+C00241,Aditya Joshi,Prefer not to say,21.0,Mumbai,Maharashtra,2023-09-03,Silver,In-store
+C00242,Isha Rao,Male,39.0,Ghaziabad,Uttar Pradesh,2024-01-17,Gold,In-store
+C00243,Aanya Rao,Prefer not to say,61.0,Pune,Maharashtra,2019-06-11,Gold,In-store
+C00244,Nisha Kumar,Non-binary,37.0,Pune,Maharashtra,2019-03-04,Bronze,In-store
+C00245,Nisha Mishra,Male,62.0,Bengaluru,Karnataka,2021-04-17,Silver,In-store
+C00246,Meera Gupta,Prefer not to say,52.0,Delhi,Delhi,2022-06-17,Bronze,App
+C00247,Dev Reddy,Prefer not to say,66.0,,Rajasthan,2021-04-12,Bronze,Online
+C00248,Karan Khan,Male,65.0,Hyderabad,Telangana,2021-12-04,Silver,App
+C00249,Meera Patel,Male,39.0,Ghaziabad,Uttar Pradesh,2025-05-22,Gold,Online
+C00250,Kabir Joshi,Prefer not to say,64.0,Delhi,Delhi,2024-07-02,Silver,App
+C00251,Ananya Patel,Prefer not to say,29.0,Delhi,Delhi,2025-01-29,,In-store
+C00252,Vivaan Khan,Female,66.0,,Telangana,2020-07-17,Gold,In-store
+C00253,Aditya Sharma,Male,50.0,Bengaluru,Karnataka,2019-09-05,Silver,App
+C00254,Nisha Sharma,Female,52.0,Jaipur,Rajasthan,2019-02-18,Bronze,App
+C00255,Priya Rao,Female,50.0,Mumbai,Maharashtra,2023-10-30,Gold,In-store
+C00256,Diya Mehta,Male,33.0,Bengaluru,Karnataka,2024-11-26,Bronze,Online
+C00257,Ishaan Reddy,Non-binary,43.0,Mumbai,Maharashtra,2021-09-23,,In-store
+C00258,Vivaan Nair,Female,23.0,Mumbai,Maharashtra,2023-03-25,Silver,In-store
+C00259,Ananya Reddy,Prefer not to say,,Hyderabad,Telangana,2022-09-18,Silver,In-store
+C00260,Isha Kumar,Prefer not to say,35.0,Hyderabad,Telangana,2019-11-01,Silver,Online
+C00261,Ananya Mishra,Non-binary,19.0,Hyderabad,Telangana,2025-08-01,Bronze,App
+C00262,Vivaan Rao,Male,54.0,Ghaziabad,Uttar Pradesh,2023-05-13,Silver,App
+C00263,Ishaan Joshi,Male,68.0,Delhi,Delhi,2019-11-18,Silver,Online
+C00264,Diya Gupta,Male,,Hyderabad,Telangana,2025-09-05,Silver,Online
+C00265,Kabir Joshi,Prefer not to say,49.0,Hyderabad,Telangana,2025-03-15,Platinum,Online
+C00266,Karan Nair,Prefer not to say,23.0,Chennai,Tamil Nadu,2022-04-24,Gold,App
+C00267,Vivaan Rao,Male,42.0,Bengaluru,Karnataka,2020-09-23,Gold,Online
+C00268,Diya Reddy,Female,37.0,Delhi,Delhi,2022-01-09,Bronze,In-store
+C00269,Tara Iyer,Prefer not to say,24.0,Chennai,Tamil Nadu,2022-12-20,Silver,App
+C00270,Ishaan Sharma,Non-binary,44.0,Delhi,Delhi,2019-12-13,Gold,App
+C00271,Karan Mehta,Male,61.0,Pune,Maharashtra,2020-07-22,Bronze,Online
+C00272,Aditya Reddy,Male,45.0,Jaipur,Rajasthan,2022-05-12,Silver,In-store
+C00273,Kabir Kumar,Prefer not to say,56.0,Delhi,Delhi,2024-02-19,Bronze,Online
+C00274,Ishaan Singh,Prefer not to say,69.0,Hyderabad,Telangana,2023-12-09,Bronze,App
+C00275,Meera Singh,Male,48.0,Chennai,Tamil Nadu,2023-06-20,Platinum,Online
+C00276,Karan Joshi,Male,38.0,Jaipur,Rajasthan,2023-05-29,Bronze,App
+C00277,Karan Mehta,Male,61.0,Pune,Maharashtra,2019-04-21,Platinum,Online
+C00278,Dev Joshi,Non-binary,,Pune,Maharashtra,2023-08-03,Silver,In-store
+C00279,Isha Rao,Male,63.0,Mumbai,Maharashtra,2023-03-25,Bronze,App
+C00280,Karan Gupta,Prefer not to say,52.0,Jaipur,Rajasthan,2023-01-12,Gold,App
+C00281,Diya Joshi,Male,60.0,Bengaluru,Karnataka,2020-11-12,Silver,In-store
+C00282,Rohan Joshi,Prefer not to say,24.0,,Uttar Pradesh,2021-11-25,Bronze,App
+C00283,Dev Singh,Prefer not to say,47.0,Pune,Maharashtra,2025-08-07,Gold,In-store
+C00284,Aarav Iyer,Female,36.0,Delhi,Delhi,2019-12-18,Bronze,App
+C00285,Saanvi Rao,Non-binary,47.0,Chennai,Tamil Nadu,2024-11-04,Silver,Online
+C00286,Dev Verma,Prefer not to say,38.0,Bengaluru,Karnataka,2019-07-03,Gold,In-store
+C00287,Rohan Nair,Female,61.0,Hyderabad,Telangana,2021-09-26,Silver,App
+C00288,Rohan Mehta,Prefer not to say,47.0,Chennai,Tamil Nadu,2023-07-18,Silver,In-store
+C00289,Ishaan Sharma,Male,46.0,Ghaziabad,Uttar Pradesh,2023-05-12,Bronze,In-store
+C00290,Kabir Joshi,Female,54.0,Pune,Maharashtra,2025-01-08,Bronze,Online
+C00291,Dev Reddy,Non-binary,60.0,Pune,Maharashtra,2024-12-01,Platinum,Online
+C00292,Zoya Gupta,Female,40.0,Ghaziabad,Uttar Pradesh,2024-02-19,Silver,App
+C00293,Zoya Das,Female,61.0,Mumbai,Maharashtra,2020-04-27,Bronze,In-store
+C00294,Saanvi Verma,Male,50.0,Chennai,Tamil Nadu,2025-09-08,Bronze,Online
+C00295,Ananya Iyer,Male,53.0,Ghaziabad,Uttar Pradesh,2022-03-29,Bronze,Online
+C00296,Zoya Sharma,Non-binary,18.0,Jaipur,Rajasthan,2021-03-10,Gold,App
+C00297,Tara Nair,Prefer not to say,44.0,Jaipur,Rajasthan,2023-12-24,Silver,In-store
+C00298,Isha Rao,Female,35.0,Hyderabad,Telangana,2022-03-28,Bronze,Online
+C00299,Priya Mehta,Female,54.0,Jaipur,Rajasthan,2025-02-02,Gold,Online
+C00300,Dev Mehta,Male,45.0,Hyderabad,Telangana,2021-10-10,Bronze,In-store
+C00301,Kabir Singh,Female,46.0,Jaipur,Rajasthan,2020-04-25,Gold,In-store
+C00302,Karan Verma,Non-binary,63.0,Pune,Maharashtra,2023-10-20,Bronze,In-store
+C00303,Arjun Joshi,Female,54.0,Pune,Maharashtra,2022-02-25,Silver,In-store
+C00304,Meera Rao,Non-binary,,Delhi,Delhi,2020-01-26,Bronze,Online
+C00305,Kabir Khan,Male,62.0,Hyderabad,Telangana,2021-10-19,Bronze,Online
+C00306,Ishaan Iyer,Male,54.0,Pune,Maharashtra,2023-08-24,Bronze,In-store
+C00307,Ishaan Mehta,Non-binary,62.0,Bengaluru,Karnataka,2023-02-20,Silver,Online
+C00308,Karan Sharma,Female,64.0,Delhi,Delhi,2023-01-07,Gold,App
+C00309,Arjun Gupta,Male,49.0,Ghaziabad,Uttar Pradesh,2022-03-07,Bronze,App
+C00310,Karan Khan,Prefer not to say,68.0,Chennai,Tamil Nadu,2019-07-18,Bronze,App
+C00311,Aarav Reddy,Male,46.0,Jaipur,Rajasthan,2023-10-19,Bronze,App
+C00312,Meera Patel,Non-binary,23.0,Chennai,Tamil Nadu,2021-10-22,Bronze,App
+C00313,Aanya Gupta,Non-binary,64.0,Chennai,Tamil Nadu,2021-08-17,Silver,In-store
+C00314,Aarav Kumar,Prefer not to say,22.0,Bengaluru,Karnataka,2021-07-15,Silver,Online
+C00315,Aarav Verma,Non-binary,70.0,Hyderabad,Telangana,2023-09-26,Gold,Online
+C00316,Isha Gupta,Female,64.0,Bengaluru,Karnataka,2020-02-27,Bronze,Online
+C00317,Ishaan Joshi,Male,59.0,Chennai,Tamil Nadu,2020-08-08,Bronze,App
+C00318,Zoya Nair,Male,46.0,Hyderabad,Telangana,2021-05-22,Silver,In-store
+C00319,Zoya Nair,Prefer not to say,31.0,Ghaziabad,Uttar Pradesh,2020-02-16,Bronze,In-store
+C00320,Saanvi Gupta,Non-binary,68.0,Ghaziabad,Uttar Pradesh,2022-02-08,Silver,In-store
+C00321,Aarav Khan,Non-binary,31.0,Mumbai,Maharashtra,2024-09-18,Bronze,Online
+C00322,Aanya Joshi,Male,49.0,Mumbai,Maharashtra,2021-09-14,Silver,App
+C00323,Rahul Mishra,Female,41.0,Bengaluru,Karnataka,2020-06-24,Silver,App
+C00324,Saanvi Mehta,Male,66.0,Ghaziabad,Uttar Pradesh,2019-10-26,Bronze,In-store
+C00325,Kabir Kumar,Female,21.0,Hyderabad,Telangana,2023-06-19,Silver,App
+C00326,Tara Verma,Prefer not to say,23.0,Ghaziabad,Uttar Pradesh,2025-01-11,Silver,Online
+C00327,Meera Reddy,Male,69.0,Bengaluru,Karnataka,2022-08-31,Silver,App
+C00328,Meera Verma,Prefer not to say,64.0,Bengaluru,Karnataka,2021-09-04,Bronze,In-store
+C00329,Diya Iyer,Female,37.0,Ghaziabad,Uttar Pradesh,2020-12-20,Bronze,App
+C00330,Aarav Patel,Prefer not to say,40.0,Chennai,Tamil Nadu,2021-11-27,Bronze,In-store
+C00331,Diya Joshi,Female,39.0,Mumbai,Maharashtra,2022-01-19,Silver,Online
+C00332,Nisha Iyer,Non-binary,21.0,Bengaluru,Karnataka,2025-05-10,Bronze,In-store
+C00333,Diya Mishra,Female,32.0,,Maharashtra,2019-01-11,Bronze,In-store
+C00334,Aanya Iyer,Non-binary,42.0,Pune,Maharashtra,2021-01-03,Platinum,In-store
+C00335,Isha Singh,Male,44.0,Ghaziabad,Uttar Pradesh,2022-08-03,Bronze,In-store
+C00336,Diya Mehta,Female,29.0,Delhi,Delhi,2024-10-13,,Online
+C00337,Dev Khan,Non-binary,67.0,Bengaluru,Karnataka,2022-09-02,Bronze,Online
+C00338,Saanvi Kumar,Non-binary,54.0,Hyderabad,Telangana,2021-09-20,Silver,App
+C00339,Arjun Verma,Male,27.0,,Rajasthan,2023-08-07,Bronze,App
+C00340,Aarav Singh,Female,66.0,Delhi,Delhi,2022-06-13,Bronze,App
+C00341,Tara Iyer,Female,27.0,Pune,Maharashtra,2020-01-17,Bronze,In-store
+C00342,Saanvi Iyer,Female,55.0,Ghaziabad,Uttar Pradesh,2020-06-30,Silver,Online
+C00343,Karan Das,Female,45.0,Bengaluru,Karnataka,2020-06-19,Bronze,Online
+C00344,Ishaan Verma,Non-binary,38.0,Delhi,Delhi,2021-08-14,Bronze,In-store
+C00345,Karan Reddy,Male,24.0,Chennai,Tamil Nadu,2024-03-23,Bronze,In-store
+C00346,Arjun Iyer,Non-binary,47.0,Delhi,Delhi,2020-05-06,Bronze,App
+C00347,Zoya Sharma,Male,,Mumbai,Maharashtra,2020-08-30,Bronze,In-store
+C00348,Ishaan Mehta,Female,61.0,,Delhi,2020-12-13,Bronze,Online
+C00349,Priya Verma,Male,24.0,Jaipur,Rajasthan,2020-07-26,Bronze,In-store
+C00350,Aditya Kumar,Prefer not to say,41.0,Pune,Maharashtra,2019-12-11,Silver,Online
+C00351,Aarav Reddy,Male,59.0,Bengaluru,Karnataka,2020-06-11,Bronze,Online
+C00352,Aanya Iyer,Female,28.0,Bengaluru,Karnataka,2023-11-10,Gold,Online
+C00353,Aarav Gupta,Prefer not to say,29.0,Jaipur,Rajasthan,2021-02-05,Bronze,Online
+C00354,Aanya Das,Male,59.0,Chennai,Tamil Nadu,2023-08-15,Platinum,Online
+C00355,Vivaan Rao,Prefer not to say,26.0,Hyderabad,Telangana,2024-11-23,Bronze,App
+C00356,Ishaan Joshi,Non-binary,48.0,Hyderabad,Telangana,2024-06-08,Bronze,App
+C00357,Ishaan Rao,Male,19.0,Delhi,Delhi,2021-06-16,Bronze,Online
+C00358,Nisha Mehta,Non-binary,67.0,Hyderabad,Telangana,2021-08-11,Platinum,In-store
+C00359,Isha Rao,Female,66.0,Pune,Maharashtra,2021-06-17,Silver,Online
+C00360,Ananya Patel,Male,55.0,Delhi,Delhi,2023-01-09,Platinum,In-store
+C00361,Karan Das,Male,54.0,Delhi,Delhi,2024-07-09,Silver,In-store
+C00362,Aanya Reddy,Female,32.0,Jaipur,Rajasthan,2019-03-23,Silver,In-store
+C00363,Zoya Kumar,Male,39.0,Delhi,Delhi,2022-08-18,Bronze,In-store
+C00364,Diya Khan,Non-binary,22.0,Chennai,Tamil Nadu,2023-06-09,Silver,Online
+C00365,Rohan Patel,Male,64.0,Mumbai,Maharashtra,2024-06-18,Silver,In-store
+C00366,Isha Nair,Male,42.0,Delhi,Delhi,2022-04-21,Bronze,App
+C00367,Karan Gupta,Female,29.0,Hyderabad,Telangana,2021-06-23,Silver,In-store
+C00368,Aditya Singh,Female,33.0,Jaipur,Rajasthan,2022-08-01,Bronze,In-store
+C00369,Dev Sharma,Non-binary,31.0,Delhi,Delhi,2019-10-05,Bronze,In-store
+C00370,Aanya Gupta,Prefer not to say,64.0,Hyderabad,Telangana,2020-11-12,Platinum,Online
+C00371,Saanvi Mehta,Prefer not to say,24.0,Ghaziabad,Uttar Pradesh,2025-06-25,Silver,App
+C00372,Ananya Iyer,Female,69.0,Pune,Maharashtra,2022-04-22,Bronze,Online
+C00373,Vivaan Singh,Male,42.0,Bengaluru,Karnataka,2019-11-04,Silver,In-store
+C00374,Zoya Das,Prefer not to say,63.0,Delhi,Delhi,2020-11-06,Silver,Online
+C00375,Aanya Reddy,Non-binary,31.0,Chennai,Tamil Nadu,2023-08-04,Gold,App
+C00376,Meera Rao,Male,24.0,Mumbai,Maharashtra,2025-05-30,Silver,Online
+C00377,Aanya Singh,Female,45.0,Chennai,Tamil Nadu,2024-05-21,Bronze,In-store
+C00378,Ananya Nair,Non-binary,23.0,Pune,Maharashtra,2020-04-18,Bronze,Online
+C00379,Nisha Mishra,Non-binary,23.0,Jaipur,Rajasthan,2023-05-07,Bronze,Online
+C00380,Ananya Iyer,Female,34.0,Delhi,Delhi,2021-12-14,Bronze,Online
+C00381,Aditya Joshi,Female,23.0,Hyderabad,Telangana,2025-01-26,Silver,App
+C00382,Priya Sharma,Prefer not to say,70.0,Pune,Maharashtra,2025-01-02,Silver,Online
+C00383,Nisha Rao,Female,43.0,Pune,Maharashtra,2019-05-23,Silver,App
+C00384,Diya Joshi,Prefer not to say,29.0,Chennai,Tamil Nadu,2020-11-15,Platinum,In-store
+C00385,Aanya Gupta,Female,61.0,Chennai,Tamil Nadu,2020-08-28,Gold,Online
+C00386,Vivaan Reddy,Prefer not to say,53.0,Delhi,Delhi,2022-08-28,Gold,App
+C00387,Aarav Joshi,Prefer not to say,25.0,Jaipur,Rajasthan,2020-08-30,Silver,App
+C00388,Diya Das,Female,68.0,Bengaluru,Karnataka,2025-01-02,Platinum,Online
+C00389,Ishaan Nair,Prefer not to say,54.0,Mumbai,Maharashtra,2019-06-03,Bronze,Online
+C00390,Zoya Das,Prefer not to say,20.0,Chennai,Tamil Nadu,2022-09-19,Gold,In-store
+C00391,Kabir Mishra,Non-binary,19.0,Jaipur,Rajasthan,2022-05-26,Bronze,Online
+C00392,Isha Patel,Non-binary,65.0,Bengaluru,Karnataka,2022-08-07,Bronze,Online
+C00393,Arjun Iyer,Male,70.0,Bengaluru,Karnataka,2024-06-07,Gold,Online
+C00394,Rahul Joshi,Male,22.0,Hyderabad,Telangana,2024-09-06,Silver,App
+C00395,Ananya Kumar,Male,,Hyderabad,Telangana,2019-05-16,Silver,Online
+C00396,Kabir Singh,Prefer not to say,50.0,Pune,Maharashtra,2020-05-22,Silver,In-store
+C00397,Nisha Das,Prefer not to say,29.0,Delhi,Delhi,2024-04-27,Silver,Online
+C00398,Ananya Khan,Non-binary,65.0,,Delhi,2020-01-06,Bronze,Online
+C00399,Ananya Khan,Male,,Hyderabad,Telangana,2021-07-11,Silver,Online
+C00400,Rahul Sharma,Female,48.0,Ghaziabad,Uttar Pradesh,2020-12-10,Silver,In-store
+C00401,Kabir Das,Non-binary,63.0,Pune,Maharashtra,2022-02-01,Silver,Online
+C00402,Dev Rao,Male,47.0,Delhi,Delhi,2024-11-02,Gold,Online
+C00403,Aarav Mehta,Non-binary,53.0,Bengaluru,Karnataka,2022-03-03,Bronze,In-store
+C00404,Vivaan Singh,Non-binary,58.0,Jaipur,Rajasthan,2022-02-08,Bronze,App
+C00405,Arjun Patel,Male,21.0,Mumbai,Maharashtra,2023-07-14,Silver,App
+C00406,Aarav Nair,Prefer not to say,36.0,Chennai,Tamil Nadu,2023-09-11,Silver,App
+C00407,Karan Verma,Male,39.0,Hyderabad,Telangana,2021-06-29,Silver,App
+C00408,Saanvi Mehta,Non-binary,,Jaipur,Rajasthan,2025-04-05,Bronze,In-store
+C00409,Aditya Verma,Non-binary,64.0,Jaipur,Rajasthan,2021-01-19,Platinum,Online
+C00410,Isha Singh,Male,65.0,Bengaluru,Karnataka,2023-09-19,Gold,Online
+C00411,Kabir Das,Non-binary,47.0,Delhi,Delhi,2024-04-11,Bronze,App
+C00412,Nisha Mishra,Male,50.0,Bengaluru,Karnataka,2023-04-13,Silver,Online
+C00413,Aditya Patel,Male,39.0,Hyderabad,Telangana,2025-05-21,Platinum,Online
+C00414,Rohan Khan,Male,67.0,Chennai,Tamil Nadu,2022-09-24,Silver,In-store
+C00415,Aanya Sharma,Prefer not to say,35.0,Delhi,Delhi,2020-11-21,Silver,In-store
+C00416,Vivaan Patel,Prefer not to say,58.0,Jaipur,Rajasthan,2023-10-24,Platinum,Online
+C00417,Aanya Mehta,Male,64.0,Hyderabad,Telangana,2019-02-27,Platinum,App
+C00418,Aarav Nair,Female,58.0,Pune,Maharashtra,2021-07-15,Gold,Online
+C00419,Aditya Reddy,Prefer not to say,50.0,Mumbai,Maharashtra,2020-11-15,Bronze,In-store
+C00420,Meera Iyer,Non-binary,45.0,Mumbai,Maharashtra,2020-07-02,Bronze,Online
+C00421,Arjun Patel,Prefer not to say,19.0,Delhi,Delhi,2020-06-21,Bronze,In-store
+C00422,Diya Singh,Female,42.0,Chennai,Tamil Nadu,2021-11-13,Gold,App
+C00423,Zoya Sharma,Female,59.0,Hyderabad,Telangana,2019-07-17,Silver,Online
+C00424,Ishaan Reddy,Non-binary,48.0,Jaipur,Rajasthan,2021-04-21,Gold,App
+C00425,Meera Gupta,Female,60.0,Hyderabad,Telangana,2020-07-15,Silver,In-store
+C00426,Meera Reddy,Female,49.0,Bengaluru,Karnataka,2021-03-29,Gold,App
+C00427,Saanvi Verma,Prefer not to say,36.0,Pune,Maharashtra,2025-02-23,Silver,In-store
+C00428,Rohan Kumar,Female,18.0,Jaipur,Rajasthan,2020-03-28,Gold,App
+C00429,Aditya Reddy,Female,64.0,Jaipur,Rajasthan,2021-11-14,Silver,Online
+C00430,Kabir Iyer,Female,24.0,Mumbai,Maharashtra,2019-06-11,Gold,Online
+C00431,Tara Verma,Female,24.0,Delhi,Delhi,2019-07-07,Bronze,In-store
+C00432,Rohan Singh,Prefer not to say,57.0,Chennai,Tamil Nadu,2020-01-16,Bronze,Online
+C00433,Diya Gupta,Prefer not to say,47.0,Chennai,Tamil Nadu,2023-04-29,Silver,Online
+C00434,Ananya Reddy,Male,62.0,Ghaziabad,Uttar Pradesh,2020-10-14,Bronze,App
+C00435,Karan Nair,Prefer not to say,29.0,Jaipur,Rajasthan,2023-01-08,Silver,App
+C00436,Nisha Mishra,Prefer not to say,25.0,Chennai,Tamil Nadu,2023-12-11,Bronze,Online
+C00437,Aarav Verma,Male,60.0,Delhi,Delhi,2024-10-27,Silver,App
+C00438,Tara Nair,Male,48.0,Bengaluru,Karnataka,2023-04-26,Bronze,App
+C00439,Aarav Nair,Male,50.0,Hyderabad,Telangana,2024-07-23,Gold,In-store
+C00440,Rohan Kumar,Non-binary,35.0,Jaipur,Rajasthan,2021-07-01,Silver,Online
+C00441,Isha Reddy,Prefer not to say,46.0,Ghaziabad,Uttar Pradesh,2024-01-10,Bronze,Online
+C00442,Rohan Reddy,Prefer not to say,65.0,Jaipur,Rajasthan,2020-02-25,Silver,In-store
+C00443,Vivaan Joshi,Non-binary,50.0,Hyderabad,Telangana,2024-02-12,Platinum,Online
+C00444,Isha Khan,Prefer not to say,39.0,Hyderabad,Telangana,2024-04-21,Gold,Online
+C00445,Diya Reddy,Male,18.0,Jaipur,Rajasthan,2022-04-10,Silver,Online
+C00446,Aanya Mishra,Male,49.0,Bengaluru,Karnataka,2023-08-04,Bronze,App
+C00447,Arjun Reddy,Prefer not to say,31.0,Pune,Maharashtra,2021-02-19,Gold,In-store
+C00448,Aanya Mishra,Female,67.0,Ghaziabad,Uttar Pradesh,2024-02-17,Silver,App
+C00449,Nisha Sharma,Female,53.0,,Tamil Nadu,2025-07-24,Silver,App
+C00450,Karan Patel,Male,24.0,Chennai,Tamil Nadu,2022-08-11,Silver,Online
+C00451,Zoya Mishra,Male,35.0,Ghaziabad,Uttar Pradesh,2022-11-05,Platinum,Online
+C00452,Aditya Gupta,Non-binary,,Chennai,Tamil Nadu,2022-07-09,Gold,App
+C00453,Arjun Kumar,Non-binary,61.0,Pune,Maharashtra,2020-06-27,,App
+C00454,Rahul Mehta,Non-binary,63.0,Chennai,Tamil Nadu,2022-12-13,Silver,App
+C00455,Priya Rao,Prefer not to say,69.0,,Uttar Pradesh,2020-03-12,Bronze,In-store
+C00456,Aanya Kumar,Non-binary,66.0,Hyderabad,Telangana,2022-03-19,Silver,In-store
+C00457,Meera Kumar,Female,40.0,Hyderabad,Telangana,2020-02-24,Silver,App
+C00458,Priya Gupta,Male,50.0,Pune,Maharashtra,2022-03-24,Gold,In-store
+C00459,Ishaan Gupta,Non-binary,53.0,Ghaziabad,Uttar Pradesh,2021-10-26,Bronze,Online
+C00460,Saanvi Joshi,Male,67.0,Pune,Maharashtra,2021-03-03,Bronze,In-store
+C00461,Ananya Patel,Female,42.0,Bengaluru,Karnataka,2022-02-17,Silver,In-store
+C00462,Karan Khan,Non-binary,18.0,Chennai,Tamil Nadu,2020-09-26,Bronze,Online
+C00463,Zoya Khan,Non-binary,49.0,Hyderabad,Telangana,2025-03-03,Bronze,App
+C00464,Rahul Kumar,Male,51.0,Delhi,Delhi,2024-08-31,Bronze,App
+C00465,Vivaan Singh,Male,31.0,Ghaziabad,Uttar Pradesh,2022-09-18,Bronze,In-store
+C00466,Priya Khan,Female,25.0,Jaipur,Rajasthan,2023-12-31,Bronze,App
+C00467,Aanya Nair,Non-binary,42.0,Pune,Maharashtra,2020-04-09,Silver,App
+C00468,Aarav Mishra,Non-binary,50.0,Mumbai,Maharashtra,2023-12-31,Silver,Online
+C00469,Rohan Mehta,Female,24.0,Pune,Maharashtra,2025-01-12,Silver,App
+C00470,Arjun Nair,Male,61.0,Bengaluru,Karnataka,2020-03-01,Bronze,App
+C00471,Vivaan Verma,Male,19.0,Ghaziabad,Uttar Pradesh,2022-09-20,Bronze,In-store
+C00472,Ananya Joshi,Non-binary,53.0,Hyderabad,Telangana,2021-07-21,Platinum,Online
+C00473,Dev Nair,Prefer not to say,45.0,Ghaziabad,Uttar Pradesh,2023-05-15,Silver,App
+C00474,Zoya Reddy,Female,62.0,Hyderabad,Telangana,2023-01-05,Platinum,In-store
+C00475,Meera Das,Female,36.0,Mumbai,Maharashtra,2023-11-28,Silver,App
+C00476,Nisha Patel,Male,26.0,Hyderabad,Telangana,2025-02-13,Bronze,App
+C00477,Meera Nair,Non-binary,18.0,Chennai,Tamil Nadu,2025-03-23,Bronze,In-store
+C00478,Karan Das,Prefer not to say,52.0,Hyderabad,Telangana,2019-12-15,Bronze,App
+C00479,Arjun Gupta,Male,28.0,Delhi,Delhi,2021-11-01,Bronze,In-store
+C00480,Priya Iyer,Female,36.0,Hyderabad,Telangana,2021-10-23,Bronze,App
+C00481,Rohan Singh,Male,60.0,Jaipur,Rajasthan,2020-02-14,Bronze,In-store
+C00482,Rohan Iyer,Prefer not to say,39.0,Pune,Maharashtra,2022-06-06,Gold,In-store
+C00483,Rohan Gupta,Male,18.0,Delhi,Delhi,2021-06-26,Gold,App
+C00484,Kabir Khan,Non-binary,26.0,Ghaziabad,Uttar Pradesh,2022-09-20,Gold,Online
+C00485,Saanvi Joshi,Non-binary,49.0,Jaipur,Rajasthan,2020-12-20,Silver,In-store
+C00486,Aditya Mishra,Male,34.0,Mumbai,Maharashtra,2019-11-10,Gold,In-store
+C00487,Karan Das,Prefer not to say,67.0,Hyderabad,Telangana,2019-05-31,Silver,App
+C00488,Aditya Singh,Prefer not to say,32.0,Jaipur,Rajasthan,2025-08-12,Gold,Online
+C00489,Dev Mehta,Female,43.0,Chennai,Tamil Nadu,2019-02-13,Silver,App
+C00490,Rahul Patel,Prefer not to say,28.0,Chennai,Tamil Nadu,2025-05-06,Silver,In-store
+C00491,Saanvi Sharma,Male,66.0,Jaipur,Rajasthan,2019-09-15,Bronze,In-store
+C00492,Arjun Mehta,Non-binary,42.0,Hyderabad,Telangana,2024-02-06,Platinum,In-store
+C00493,Diya Verma,Non-binary,,Delhi,Delhi,2025-06-28,Silver,In-store
+C00494,Ishaan Singh,Female,51.0,Ghaziabad,Uttar Pradesh,2021-07-01,Silver,Online
+C00495,Nisha Joshi,Prefer not to say,56.0,,Delhi,2020-07-23,Silver,In-store
+C00496,Rahul Nair,Non-binary,31.0,,Karnataka,2020-10-06,Bronze,App
+C00497,Isha Gupta,Non-binary,64.0,Bengaluru,Karnataka,2024-05-15,Silver,App
+C00498,Tara Sharma,Male,20.0,Chennai,Tamil Nadu,2025-08-23,Bronze,App
+C00499,Karan Patel,Female,28.0,Hyderabad,Telangana,2021-01-07,Silver,Online
+C00500,Meera Reddy,Male,46.0,Hyderabad,Telangana,2024-04-14,Gold,In-store
+C00501,Tara Das,Male,68.0,Pune,Maharashtra,2021-01-14,Silver,App
+C00502,Ananya Verma,Non-binary,47.0,Mumbai,Maharashtra,2019-10-09,Bronze,Online
+C00503,Diya Sharma,Male,51.0,Chennai,Tamil Nadu,2024-08-27,Silver,In-store
+C00504,Ananya Iyer,Female,68.0,Bengaluru,Karnataka,2020-04-26,Bronze,App
+C00505,Zoya Mehta,Female,67.0,Chennai,Tamil Nadu,2023-11-03,Silver,Online
+C00506,Rahul Gupta,Male,69.0,Hyderabad,Telangana,2023-04-11,Bronze,App
+C00507,Tara Patel,Non-binary,48.0,Bengaluru,Karnataka,2019-12-10,Bronze,App
+C00508,Kabir Kumar,Female,63.0,Ghaziabad,Uttar Pradesh,2019-01-30,Silver,In-store
+C00509,Ishaan Nair,Male,62.0,Hyderabad,Telangana,2023-08-02,Bronze,In-store
+C00510,Karan Rao,Non-binary,,Ghaziabad,Uttar Pradesh,2025-05-01,Bronze,Online
+C00511,Arjun Gupta,Prefer not to say,29.0,Ghaziabad,Uttar Pradesh,2025-03-22,Silver,Online
+C00512,Ishaan Verma,Male,,Delhi,Delhi,2020-05-02,Gold,Online
+C00513,Diya Kumar,Prefer not to say,68.0,Chennai,Tamil Nadu,2025-03-05,Silver,App
+C00514,Ananya Gupta,Female,69.0,Hyderabad,Telangana,2020-08-18,Silver,App
+C00515,Vivaan Reddy,Non-binary,32.0,Ghaziabad,Uttar Pradesh,2019-06-04,Gold,Online
+C00516,Zoya Sharma,Male,58.0,Mumbai,Maharashtra,2019-02-13,Bronze,App
+C00517,Arjun Sharma,Male,57.0,Mumbai,Maharashtra,2019-05-28,Bronze,App
+C00518,Ananya Reddy,Non-binary,67.0,Hyderabad,Telangana,2023-06-07,Silver,In-store
+C00519,Vivaan Mishra,Female,53.0,Hyderabad,Telangana,2025-04-09,Platinum,Online
+C00520,Kabir Kumar,Male,47.0,Delhi,Delhi,2025-06-12,Bronze,In-store
+C00521,Rahul Reddy,Female,50.0,Ghaziabad,Uttar Pradesh,2020-04-24,Gold,Online
+C00522,Dev Gupta,Prefer not to say,67.0,Mumbai,Maharashtra,2022-10-23,Platinum,Online
+C00523,Karan Khan,Female,48.0,Jaipur,Rajasthan,2019-10-04,Silver,In-store
+C00524,Rohan Gupta,Non-binary,51.0,Pune,Maharashtra,2021-12-14,Bronze,In-store
+C00525,Rohan Reddy,Male,48.0,Ghaziabad,Uttar Pradesh,2021-06-14,Platinum,Online
+C00526,Arjun Iyer,Male,33.0,Chennai,Tamil Nadu,2021-12-23,Bronze,In-store
+C00527,Zoya Singh,Male,67.0,Pune,Maharashtra,2019-11-18,Silver,App
+C00528,Zoya Sharma,Female,,Jaipur,Rajasthan,2022-07-15,Silver,App
+C00529,Nisha Patel,Non-binary,43.0,Mumbai,Maharashtra,2025-06-20,Bronze,App
+C00530,Nisha Mehta,Female,50.0,Ghaziabad,Uttar Pradesh,2020-12-16,Silver,In-store
+C00531,Rohan Verma,Female,18.0,Jaipur,Rajasthan,2023-04-04,Silver,Online
+C00532,Zoya Khan,Non-binary,29.0,Delhi,Delhi,2021-08-29,Bronze,App
+C00533,Saanvi Patel,Prefer not to say,45.0,Delhi,Delhi,2023-03-05,Bronze,Online
+C00534,Dev Patel,Male,54.0,Mumbai,Maharashtra,2020-02-14,Gold,In-store
+C00535,Ishaan Kumar,Male,69.0,Ghaziabad,Uttar Pradesh,2020-09-04,Silver,In-store
+C00536,Tara Iyer,Male,,Chennai,Tamil Nadu,2024-12-27,Gold,Online
+C00537,Kabir Mehta,Female,43.0,Mumbai,Maharashtra,2020-10-31,Bronze,Online
+C00538,Diya Iyer,Non-binary,34.0,Jaipur,Rajasthan,2025-04-14,Silver,Online
+C00539,Aarav Gupta,Female,40.0,Delhi,Delhi,2021-03-25,Silver,App
+C00540,Meera Singh,Non-binary,61.0,Chennai,Tamil Nadu,2024-01-05,Platinum,Online
+C00541,Dev Nair,Male,28.0,Mumbai,Maharashtra,2022-10-13,Silver,App
+C00542,Vivaan Reddy,Male,39.0,Ghaziabad,Uttar Pradesh,2022-07-21,Silver,App
+C00543,Zoya Nair,Prefer not to say,35.0,Mumbai,Maharashtra,2023-01-27,Gold,App
+C00544,Tara Patel,Male,,,Rajasthan,2021-08-19,Silver,App
+C00545,Arjun Patel,Prefer not to say,24.0,Bengaluru,Karnataka,2024-04-22,Silver,In-store
+C00546,Rahul Joshi,Female,24.0,Ghaziabad,Uttar Pradesh,2020-09-28,Bronze,Online
+C00547,Isha Kumar,Non-binary,46.0,Mumbai,Maharashtra,2020-06-21,Silver,In-store
+C00548,Aanya Nair,Non-binary,38.0,Hyderabad,Telangana,2024-03-28,Platinum,App
+C00549,Priya Iyer,Male,62.0,Mumbai,Maharashtra,2025-08-17,Silver,App
+C00550,Rahul Nair,Non-binary,40.0,Ghaziabad,Uttar Pradesh,2021-07-19,Gold,Online
+C00551,Saanvi Gupta,Non-binary,27.0,Mumbai,Maharashtra,2019-01-01,Silver,In-store
+C00552,Meera Iyer,Female,62.0,Delhi,Delhi,2024-05-08,Bronze,Online
+C00553,Zoya Kumar,Female,53.0,Mumbai,Maharashtra,2023-08-14,Platinum,Online
+C00554,Isha Patel,Prefer not to say,,Ghaziabad,Uttar Pradesh,2021-12-13,Bronze,App
+C00555,Rahul Joshi,Non-binary,36.0,Pune,Maharashtra,2024-12-18,Gold,Online
+C00556,Vivaan Patel,Male,36.0,Pune,Maharashtra,2024-02-09,Silver,Online
+C00557,Arjun Singh,Female,27.0,Jaipur,Rajasthan,2024-12-31,Bronze,In-store
+C00558,Kabir Patel,Prefer not to say,64.0,,Maharashtra,2020-01-05,Bronze,Online
+C00559,Rohan Gupta,Non-binary,68.0,Pune,Maharashtra,2023-03-02,Silver,In-store
+C00560,Vivaan Khan,Male,21.0,Delhi,Delhi,2023-05-27,Bronze,Online
+C00561,Arjun Mishra,Non-binary,70.0,Chennai,Tamil Nadu,2019-02-21,Bronze,App
+C00562,Ishaan Joshi,Prefer not to say,33.0,Pune,Maharashtra,2019-05-18,Bronze,App
+C00563,Rahul Nair,Male,48.0,Bengaluru,Karnataka,2022-07-02,Platinum,In-store
+C00564,Priya Mehta,Female,34.0,Hyderabad,Telangana,2022-05-08,Bronze,In-store
+C00565,Diya Kumar,Prefer not to say,38.0,,Maharashtra,2022-02-04,Silver,Online
+C00566,Aarav Sharma,Prefer not to say,62.0,Pune,Maharashtra,2023-03-02,Gold,In-store
+C00567,Nisha Reddy,Non-binary,66.0,Chennai,Tamil Nadu,2019-09-02,Bronze,In-store
+C00568,Aditya Iyer,Male,38.0,Bengaluru,Karnataka,2022-11-23,Gold,Online
+C00569,Aarav Verma,Prefer not to say,40.0,Pune,Maharashtra,2021-10-23,Platinum,Online
+C00570,Priya Rao,Prefer not to say,30.0,Jaipur,Rajasthan,2025-02-04,Bronze,App
+C00571,Kabir Khan,Male,22.0,,Rajasthan,2024-01-15,Bronze,Online
+C00572,Dev Sharma,Prefer not to say,64.0,Delhi,Delhi,2019-03-18,Silver,Online
+C00573,Rohan Verma,Female,60.0,Pune,Maharashtra,2023-05-07,Bronze,App
+C00574,Priya Patel,Non-binary,38.0,Jaipur,Rajasthan,2022-08-12,Bronze,App
+C00575,Aanya Khan,Male,29.0,Bengaluru,Karnataka,2021-04-07,Bronze,In-store
+C00576,Aanya Das,Prefer not to say,60.0,Bengaluru,Karnataka,2025-08-14,Bronze,Online
+C00577,Zoya Verma,Female,18.0,Pune,Maharashtra,2021-05-04,Silver,In-store
+C00578,Aanya Singh,Prefer not to say,70.0,Jaipur,Rajasthan,2019-08-27,Gold,Online
+C00579,Vivaan Khan,Non-binary,22.0,Hyderabad,Telangana,2024-10-28,Bronze,App
+C00580,Priya Gupta,Male,30.0,Pune,Maharashtra,2021-10-15,Silver,In-store
+C00581,Diya Joshi,Non-binary,61.0,Ghaziabad,Uttar Pradesh,2023-10-16,Platinum,In-store
+C00582,Priya Gupta,Non-binary,60.0,Chennai,Tamil Nadu,2023-12-20,Platinum,Online
+C00583,Saanvi Gupta,Prefer not to say,70.0,Delhi,Delhi,2021-09-12,Silver,In-store
+C00584,Priya Mishra,Non-binary,41.0,Ghaziabad,Uttar Pradesh,2024-01-07,Platinum,In-store
+C00585,Meera Das,Female,51.0,Hyderabad,Telangana,2022-05-21,Bronze,In-store
+C00586,Rohan Sharma,Non-binary,53.0,Pune,Maharashtra,2025-05-26,Platinum,In-store
+C00587,Aanya Iyer,Non-binary,27.0,Bengaluru,Karnataka,2023-02-12,Platinum,In-store
+C00588,Kabir Joshi,Non-binary,23.0,Pune,Maharashtra,2025-05-19,Platinum,App
+C00589,Rohan Joshi,Prefer not to say,29.0,,Karnataka,2025-06-18,Gold,In-store
+C00590,Aanya Verma,Prefer not to say,23.0,Mumbai,Maharashtra,2022-10-01,Bronze,Online
+C00591,Diya Khan,Male,65.0,Ghaziabad,Uttar Pradesh,2019-02-16,Silver,App
+C00592,Aanya Rao,Female,38.0,Ghaziabad,Uttar Pradesh,2020-09-04,Bronze,App
+C00593,Aditya Sharma,Prefer not to say,46.0,Pune,Maharashtra,2025-06-14,Silver,In-store
+C00594,Meera Joshi,Prefer not to say,27.0,Ghaziabad,Uttar Pradesh,2019-12-05,Silver,App
+C00595,Priya Gupta,Non-binary,23.0,Hyderabad,Telangana,2023-11-15,Gold,In-store
+C00596,Nisha Mehta,Male,49.0,,Tamil Nadu,2025-05-29,Bronze,App
+C00597,Isha Reddy,Non-binary,67.0,Pune,Maharashtra,2025-06-17,Bronze,App
+C00598,Tara Singh,Non-binary,30.0,Ghaziabad,Uttar Pradesh,2025-08-29,Silver,Online
+C00599,Saanvi Das,Prefer not to say,57.0,Chennai,Tamil Nadu,2019-07-03,Platinum,In-store
+C00600,Saanvi Patel,Female,25.0,Pune,Maharashtra,2021-09-22,Platinum,In-store

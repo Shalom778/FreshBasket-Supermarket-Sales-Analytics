@@ -1,0 +1,116 @@
+// Create a dedicated table named _Measures and add these measures.
+// Model assumption: Sales is one cleaned row per TransactionID; all sales KPIs use Completed orders.
+
+Gross Sales =
+CALCULATE ( SUM ( Sales[GrossSales] ), Sales[OrderStatus] = "Completed" )
+
+Net Sales =
+CALCULATE ( SUM ( Sales[NetSales] ), Sales[OrderStatus] = "Completed" )
+
+Total Discounts =
+CALCULATE ( SUM ( Sales[DiscountAmount] ), Sales[OrderStatus] = "Completed" )
+
+Total Tax =
+CALCULATE ( SUM ( Sales[TaxAmount] ), Sales[OrderStatus] = "Completed" )
+
+Units Sold =
+CALCULATE (
+    SUM ( Sales[Quantity] ),
+    Sales[OrderStatus] = "Completed"
+)
+
+Total Orders =
+CALCULATE (
+    DISTINCTCOUNT ( Sales[TransactionID] ),
+    Sales[OrderStatus] = "Completed"
+)
+
+Average Order Value =
+DIVIDE ( [Net Sales], [Total Orders] )
+
+Gross Profit =
+CALCULATE (
+    SUMX (
+        FILTER ( Sales, NOT ISBLANK ( Sales[Quantity] ) ),
+        ( Sales[UnitPrice] - RELATED ( Products[UnitCost] ) ) * Sales[Quantity]
+            - Sales[DiscountAmount]
+    ),
+    Sales[OrderStatus] = "Completed"
+)
+
+Gross Margin % =
+DIVIDE ( [Gross Profit], [Net Sales] )
+
+Discount Rate % =
+DIVIDE ( [Total Discounts], [Gross Sales] )
+
+Customers =
+CALCULATE (
+    DISTINCTCOUNT ( Sales[CustomerID] ),
+    Sales[OrderStatus] = "Completed",
+    NOT ISBLANK ( Sales[CustomerID] )
+)
+
+Sales Previous Year =
+CALCULATE ( [Net Sales], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+Sales YoY Change =
+[Net Sales] - [Sales Previous Year]
+
+Sales YoY Growth % =
+DIVIDE ( [Sales YoY Change], [Sales Previous Year] )
+
+Sales Previous Month =
+CALCULATE ( [Net Sales], DATEADD ( 'Date'[Date], -1, MONTH ) )
+
+Sales MoM Growth % =
+DIVIDE ( [Net Sales] - [Sales Previous Month], [Sales Previous Month] )
+
+Returned Units =
+SUM ( Returns[ReturnQuantity] )
+
+Refund Amount =
+SUM ( Returns[RefundAmount] )
+
+Return Rate % =
+DIVIDE ( [Returned Units], [Units Sold] )
+
+Sales per Sq Ft =
+DIVIDE (
+    [Net Sales],
+    SUM ( Stores[SquareFeet] )
+)
+
+Latest Inventory Snapshot =
+CALCULATE (
+    MAX ( InventorySnapshots[SnapshotDate] ),
+    REMOVEFILTERS ( 'Date' )
+)
+
+Low Stock Store-Product Pairs =
+VAR LatestDate = [Latest Inventory Snapshot]
+RETURN
+CALCULATE (
+    COUNTROWS ( InventorySnapshots ),
+    InventorySnapshots[SnapshotDate] = LatestDate,
+    InventorySnapshots[UnitsOnHand] < InventorySnapshots[ReorderLevel]
+)
+
+Latest Inventory Value =
+VAR LatestDate = [Latest Inventory Snapshot]
+RETURN
+CALCULATE (
+    SUM ( InventorySnapshots[InventoryCostValue] ),
+    InventorySnapshots[SnapshotDate] = LatestDate
+)
+
+// Optional cohort-style refund measure: dates are based on original sale date.
+// Assumes Sales[TransactionID] is unique after cleanup and Returns[TransactionID] matches it.
+Refunds by Original Sale Date =
+VAR SaleTransactionIDs = VALUES ( Sales[TransactionID] )
+RETURN
+CALCULATE (
+    SUM ( Returns[RefundAmount] ),
+    TREATAS ( SaleTransactionIDs, Returns[TransactionID] ),
+    CROSSFILTER ( 'Date'[Date], Returns[ReturnDate], NONE )
+)
