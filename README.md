@@ -25,14 +25,7 @@ FreshBasket analyses sales, products, stores, customers, promotions, returns and
 3. **Business Operations & Insights** — customer, promotion, returns and inventory analysis.
 4. **Store Detail (drill-through)** — store-level KPIs and performance trends.
 5. **Product Detail (drill-through)** — product-level KPIs, sales trend and brand comparison.
-
-<!-- Add screenshots to the Screenshots folder, then uncomment these lines.
-## Dashboard preview
-![Executive Overview](Screenshots/executive-overview.png)
-![Product & Store Performance](Screenshots/product-store-performance.png)
-![Business Operations & Insights](Screenshots/business-operations-insights.png)
--->
-
+6. 
 ## Data quality and transformation summary
 
 | Table | Raw rows | Clean rows |
@@ -57,23 +50,12 @@ FreshBasket-Supermarket-Sales-Analytics/
 │   ├── Clean/               # Cleaned CSV files for Power BI import
 │   └── Workbooks/           # Raw and cleaned Excel workbooks
 ├── DAX/                     # Date table, measures and what-if/Top N logic
-├── Model/                   # Relationships, schema diagram and notes
 ├── PowerQuery/              # Power Query M scripts for ETL
 ├── QA/                      # Data quality and validation report
 ├── Report/                  # Report layout and visual specifications
-├── Screenshots/             # Add report screenshots here
+├── Screenshots/             #  report screenshots here
 └── FreshBasket_Theme.json   # Power BI theme
 ```
-
-## How to explore the project
-
-1. Download or clone this repository.
-2. Open Power BI Desktop and import the CSV files from `Data/Clean/` (or use `Data/Workbooks/FreshBasket_Cleaned_Tables.xlsx`).
-3. To review/reproduce the ETL, use the `.m` scripts in `PowerQuery/`; update the data-folder path in `00_DataFolderPath.m` for your machine.
-4. Create model relationships using `Model/Relationships.csv` and `Model/Relationship_Notes.md`.
-5. Create the Date table and measures using the scripts in `DAX/`.
-6. Follow `Report/Report_Page_Specification.md` for the report design and interactions.
-7. Import `FreshBasket_Theme.json` from Power BI Desktop → View → Themes → Browse for themes.
 
 ## Main analytical measures
 
@@ -86,9 +68,6 @@ FreshBasket-Supermarket-Sales-Analytics/
 - Sales per Square Foot
 - Top N product ranking and target/discount scenario measures
 
-## Power BI report file
-
-The `.pbix` file is not included in this source package because it is generated and saved locally from Power BI Desktop. Add your final `FreshBasket_Sales_Analytics.pbix` to the repository only if it is under GitHub's 100 MB single-file limit (GitHub recommends keeping files below 50 MB). If it is larger, attach it to a GitHub Release or use Git LFS. Add your exported dashboard PDF to a `Report/` or `Screenshots/` folder if you want visitors to preview the finished report.
 
 ## Notes
 
