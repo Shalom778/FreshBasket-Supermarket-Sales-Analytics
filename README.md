@@ -52,9 +52,10 @@ FreshBasket-Supermarket-Sales-Analytics/
 ├── DAX/                     # Date table, measures and what-if/Top N logic
 ├── PowerQuery/              # Power Query M scripts for ETL
 ├── QA/                      # Data quality and validation report
-├── Report/                  # Report layout and visual specifications
+├── Report/                  # Report pdf and visual specifications
 ├── Screenshots/             #  report screenshots here
 └── FreshBasket_Theme.json   # Power BI theme
+├── Powerbi_project2.pbix    #  .pbix of dashboard
 ```
 
 ## Main analytical measures
